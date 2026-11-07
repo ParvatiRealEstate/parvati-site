@@ -28,6 +28,7 @@ body { margin: 0; background: #0E0F11; }
 .pv-hero--buy { background-image: linear-gradient(180deg, rgba(10,11,14,0.75) 0%, rgba(10,11,14,0.35) 45%, rgba(10,11,14,0.88) 100%), url(images/fidi.jpg); background-position: center 60%; }
 .pv-hero--sell { background-image: linear-gradient(180deg, rgba(10,11,14,0.75) 0%, rgba(10,11,14,0.3) 45%, rgba(10,11,14,0.88) 100%), url(images/ues.jpg); background-position: center 55%; }
 .pv-hero--about { background-image: linear-gradient(180deg, rgba(10,11,14,0.75) 0%, rgba(10,11,14,0.3) 45%, rgba(10,11,14,0.88) 100%), url(images/greenwich.jpg); background-position: center 55%; }
+.pv-hero--neighbourhoods { background-image: linear-gradient(180deg, rgba(10,11,14,0.75) 0%, rgba(10,11,14,0.3) 45%, rgba(10,11,14,0.88) 100%), url(images/manhattan-fire-escapes.jpg); background-position: center 50%; }
 
 /* Footer, with the contact band above it on every page but Contact. */
 .pv-foot { font-family: 'Jost', system-ui, sans-serif; color: #F2EDE4; background: #0E0F11; }
